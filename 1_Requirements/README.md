@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- TBD 
+In this project the user can easily convert any number system such as: Binary to decimal, octal, hexadecimal. Decimal to binary, octal, hexadecimal. Octal to binary, decimal, hexadecimal. Hexadecimal to binary, decimal, octal. 
 
 ## Research
 ![Description](Link to Pic)
