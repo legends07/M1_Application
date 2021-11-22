@@ -1,5 +1,5 @@
 #include "unity.h"
-#include "Dcalc.h"
+#include "dcalc.h"
 void setUp()
 {
 }
