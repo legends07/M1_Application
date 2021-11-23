@@ -18,7 +18,25 @@ Decimal number system has only ten (10) digits from 0 to 9. Every number (value)
 A Hexadecimal number system has sixteen (16) alphanumeric values from 0 to 9 and A to F. Every number (value) represents with 0,1,2,3,4,5,6, 7,8,9,A,B,C,D,E and F in this number system. The base of hexadecimal number system is 16, because it has 16 alphanumeric values. Here A is 10, B is 11, C is 12, D is 13, E is 14 and F is 15.
 
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![SWOT-Sample](https://us.123rf.com/450wm/vectorscore/vectorscore1708/vectorscore170800056/84399177-swot-analysis-font-design-with-main-objectives-project-management-template.jpg?ver=6)
+## Strenghts:
+1.With number system convertion  users can convert a given number system to any other number system.
+2.Users can save their time ,without finding it manually.
+3.users can reduse the time and effort .
+4.Easily get Output. 
+
+
+## WEAKNESS:
+1.Vulnerable to viruses.
+2.May encounter with Bugs.
+
+## Oprtunity:
+1.  Can used for Teaching Purpose
+2.   .
+
+## Threats:
+ 1. Application may crash somtimes.
+ 2. Can hit error when given huge value.
 
 # 4W&#39;s and 1&#39;H
 
@@ -28,26 +46,37 @@ A Hexadecimal number system has sixteen (16) alphanumeric values from 0 to 9 and
 
 ## What:
 
-**TBD**
+**Used for easy and quick convertion**
 
 ## When:
 
-**TBD**
+**Demand Basis**
 
 ## Where:
 
-**TBD**
+**As a online tool or a application**
 
 ## How:
 
 **TBD**
 
 # Detail requirements
-## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+High level requirements: 
 
 
-##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+|**ID**|**Description**|**Category**|**Status**|
+| :-: | :-: | :-: | :-: |
+|HR01|User shall be able to determine from which number system to which it should be converted.|Technical|Implemented|
+|HR02|User shall be able to differentiate the input given. |Technical|Implemented|
+|HR03|User shall be able to convert one number system to other|Technical|Implemented|
+|HR04|User shall be able to get the equivalent value in other number system|Technical|Implemented|
+|HR05|User shall be able to get the desired output|Technical|Implemented|
+
+Low Level Requirements:
+
+|**ID**|**Description**|**HLR ID**|**Status (Implemented/Future)**|
+| :-: | :-: | :-: | :-: |
+|LR01|(1). User must choose the option for the convertion to start|HR01|Implemented|
+|LR02|User must give the correct option .|HR02|Implemented|
+|LR03|User must give the relevent inputs|HR03|Implemented|
+|LR04|User desired Output. |HR04|Implemented|
