@@ -13,8 +13,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: build
+    - name: install
       run: sudo apt-get install make
+    - name: Make
       run: gcc hello.c -o hello.exe
     - name: Run
       run: ./hello.exe
