@@ -13,6 +13,9 @@ In this project the user can easily convert any number system such as: Binary to
 ## Quality Badge(Codacy)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e1205f42607a4dbbb2823dea36bbe860)](https://www.codacy.com/gh/legends07/M1_Application_Digital-Number-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=legends07/M1_Application_Digital-Number-System&amp;utm_campaign=Badge_Grade)
 
+# Code Quality Score
+![Code Quality Score](https://api.codiga.io/project/29897/score/svg)
+
 # Folder Structure :
 
 Folder_Name      |  Description
