@@ -1,5 +1,5 @@
 PROJ_NAME = dcalc
-SRC = dcalc.c
+SRC = dcalc.c main.c
 
 ifdef OS
    RM = del /q
