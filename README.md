@@ -1,4 +1,5 @@
 # M1_Application_Digital-Number-System
+In this project the user can easily convert any number system such as: Binary to decimal, octal, hexadecimal. Decimal to binary, octal, hexadecimal. Octal to binary, decimal, hexadecimal. Hexadecimal to binary, decimal, octal.
 
 ## Linux OS Build
 [![Linux OS Build](https://github.com/legends07/M1_Application_Digital-Number-System/actions/workflows/linux_c-cpp.yml/badge.svg)](https://github.com/legends07/M1_Application_Digital-Number-System/blob/main/.github/workflows/linux_c-cpp.yml)
