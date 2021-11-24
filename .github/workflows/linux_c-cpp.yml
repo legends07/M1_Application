@@ -19,3 +19,5 @@ jobs:
       run: gcc hello.c -o hello.exe
     - name: Run
       run: ./hello.exe
+    - name: make all
+      run:  make all -C 3_Implementation/
