@@ -20,4 +20,6 @@ jobs:
     - name: Run
       run: ./hello.exe
     - name: make all
-      run:  make all -C 3_Implementation/
+      run:  -C 3_Implementation/
+    - name: make all
+      run:  make
