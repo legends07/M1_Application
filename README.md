@@ -4,6 +4,9 @@ In this project the user can easily convert any number system such as: Binary to
 ## Linux OS Build
 [![Linux OS Build](https://github.com/legends07/M1_Application_Digital-Number-System/actions/workflows/linux_c-cpp.yml/badge.svg)](https://github.com/legends07/M1_Application_Digital-Number-System/blob/main/.github/workflows/linux_c-cpp.yml)
 
+## Windows OS Build
+[![Linux OS Build](https://github.com/legends07/M1_Application_Digital-Number-System/actions/workflows/Windows_c-cpp.yml/badge.svg)](https://github.com/legends07/M1_Application_Digital-Number-System/blob/main/.github/workflows/Windows_c-cpp.yml)
+
 ## Unity Testing
 [![Linux OS Build](https://github.com/legends07/M1_Application_Digital-Number-System/actions/workflows/Unity_Testing.yml/badge.svg)](https://github.com/legends07/M1_Application_Digital-Number-System/blob/main/.github/workflows/Unity_Testing.yml)
 
