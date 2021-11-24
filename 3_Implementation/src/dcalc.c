@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include<string.h>
-#include "dcalc.h"
+#include "../inc/dcalc.h"
 
 
 long int Bin_to_Dec(long int bin)
