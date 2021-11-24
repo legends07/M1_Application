@@ -13,7 +13,7 @@
 #include <stdio.h>
 #include <math.h>
 #include<string.h>
-#include "dcalc.h"
+#include "../inc/dcalc.h"
 //#include <conio.h>
  
 
