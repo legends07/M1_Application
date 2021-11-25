@@ -18,7 +18,7 @@ In this project the user can easily convert any number system such as: Binary to
 
 # Code Quality Score
 ![Code Quality Score](https://api.codiga.io/project/29897/score/svg)
-c-cpp.yml
+
 
 # Folder Structure :
 
